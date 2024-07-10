@@ -1,5 +1,5 @@
-import ProductCard from "@/components/ProductCard";
-import { getCollectionDetails } from "@/lib/actions/actions";
+import ProductCard from "../../../components/ProductCard"
+import { getCollectionDetails } from "../../../../lib/actions/actions";
 import Image from "next/image";
 import React from "react";
 
